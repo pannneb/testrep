@@ -1,0 +1,8 @@
+platform :ios, '7.0'
+
+    pod 'FLAnimatedImage', '~> 1.0'
+    pod 'RMUniversalAlert', '~> 0.6'
+    pod 'ActionSheetPicker-3.0', '~> 1.5.0'
+    pod 'AFNetworking', '~> 2.5'
+    pod 'SVProgressHUD', '~> 1.1'
+    pod 'LMGeocoder', '~> 1.0'

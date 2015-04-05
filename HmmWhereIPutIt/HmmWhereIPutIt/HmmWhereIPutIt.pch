@@ -1,0 +1,15 @@
+//
+//  HmmWhereIPutIt.pch
+//  
+//
+//  Created by iOS Akademija on 4/4/15.
+//
+//
+
+#ifndef _HmmWhereIPutIt_pch
+#define _HmmWhereIPutIt_pch
+
+#import <CoreData/CoreData.h>
+#import "NPWLocalManager.h"
+
+#endif
